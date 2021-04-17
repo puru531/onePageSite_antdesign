@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/antdesign/static/css/main.841a9970.chunk.css",
+    "main.js": "/antdesign/static/js/main.59abbb41.chunk.js",
+    "main.js.map": "/antdesign/static/js/main.59abbb41.chunk.js.map",
+    "runtime-main.js": "/antdesign/static/js/runtime-main.2e3ab38a.js",
+    "runtime-main.js.map": "/antdesign/static/js/runtime-main.2e3ab38a.js.map",
+    "static/css/2.558413a2.chunk.css": "/antdesign/static/css/2.558413a2.chunk.css",
+    "static/js/2.76a2d055.chunk.js": "/antdesign/static/js/2.76a2d055.chunk.js",
+    "static/js/2.76a2d055.chunk.js.map": "/antdesign/static/js/2.76a2d055.chunk.js.map",
+    "static/js/3.e7d131fa.chunk.js": "/antdesign/static/js/3.e7d131fa.chunk.js",
+    "static/js/3.e7d131fa.chunk.js.map": "/antdesign/static/js/3.e7d131fa.chunk.js.map",
+    "index.html": "/antdesign/index.html",
+    "static/css/2.558413a2.chunk.css.map": "/antdesign/static/css/2.558413a2.chunk.css.map",
+    "static/css/main.841a9970.chunk.css.map": "/antdesign/static/css/main.841a9970.chunk.css.map",
+    "static/js/2.76a2d055.chunk.js.LICENSE.txt": "/antdesign/static/js/2.76a2d055.chunk.js.LICENSE.txt",
+    "static/media/advanced-option.84c7d069.jpg": "/antdesign/static/media/advanced-option.84c7d069.jpg",
+    "static/media/App.css": "/antdesign/static/media/bg-works.abd66d06.jpg",
+    "static/media/clean-design.728069da.jpg": "/antdesign/static/media/clean-design.728069da.jpg",
+    "static/media/easy-customise.d4fe2213.jpg": "/antdesign/static/media/easy-customise.d4fe2213.jpg",
+    "static/media/great-support.13341f4e.jpg": "/antdesign/static/media/great-support.13341f4e.jpg",
+    "static/media/modern-design.e2114f5b.jpg": "/antdesign/static/media/modern-design.e2114f5b.jpg",
+    "static/media/unlimited-features.a0b8acf7.jpg": "/antdesign/static/media/unlimited-features.a0b8acf7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e3ab38a.js",
+    "static/css/2.558413a2.chunk.css",
+    "static/js/2.76a2d055.chunk.js",
+    "static/css/main.841a9970.chunk.css",
+    "static/js/main.59abbb41.chunk.js"
+  ]
+}
